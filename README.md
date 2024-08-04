@@ -16,4 +16,6 @@ I have created this project in different algorithms. The accuracy of the project
     Decision Tree  
     K-NN  
     Linear Regression  
+# Tableau Link
+https://public.tableau.com/app/profile/gayatri.attarde3740/viz/ProductSalesForecasting_17227730386420/SalesPerformanceDashboard
 
