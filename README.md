@@ -3,7 +3,7 @@ Sales data for 18 months from 365 stores is available along with information on 
 
 Test Data Variable Definition ID Unique Identifier for a row Store_id Unique id for each Store Store_Type Type of the Store Location_Type Type of the location where Store is located Region_Code Code of the Region where Store is located Date Information about the Date Holiday If there is holiday on the given Date, 1 : Yes, 0 : No Discount If discount is offered by store on the given Date, Yes/ No.
 # Directory Structure
-├── Supplement Sales Prediction  
+├── Sales Prediction  
 │    ├── Sales Prediction.ipynb                    # Prediction .ipynb File  
 │    ├── EDA.ipynb                                 # EDA and Hypothesis File  
 │    ├── TEST_FINAL.csv                            # Dataset for Test  
